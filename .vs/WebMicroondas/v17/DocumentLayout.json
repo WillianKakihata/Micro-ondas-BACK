@@ -1,0 +1,597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\programasestaticos\\strategys\\frangostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\programasestaticos\\strategys\\frangostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\programasestaticos\\strategys\\leitestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\programasestaticos\\strategys\\leitestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\programa\\programasinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\programa\\programasinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\programa\\programasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\programa\\programasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\dto\\in\\createprogramasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\dto\\in\\createprogramasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\programasestaticos\\strategys\\feijaostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\programasestaticos\\strategys\\feijaostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\dto\\out\\aquecimentoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\dto\\out\\aquecimentoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\enuns\\statusmicroondasenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\enuns\\statusmicroondasenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\migrations\\20250820024152_criandobancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\migrations\\20250820024152_criandobancodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\webmicroondas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\webmicroondas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\microondas\\microondasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\microondas\\microondasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\models\\programasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\models\\programasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\programasestaticos\\programasregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\programasestaticos\\programasregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\microondas\\microondasinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\microondas\\microondasinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\programasestaticos\\programasestaticosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\programasestaticos\\programasestaticosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\programasestaticos\\programasstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\programasestaticos\\programasstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\dto\\in\\updateprogramasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\dto\\in\\updateprogramasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\dto\\out\\programasestasticosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\dto\\out\\programasestasticosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\dto\\out\\acrescentartempodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\dto\\out\\acrescentartempodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\dto\\in\\aquecimentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\dto\\in\\aquecimentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\controllers\\microondascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\controllers\\microondascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\dto\\in\\aquecerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\dto\\in\\aquecerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\controllers\\programascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\controllers\\programascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\controllers\\programasestaticocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\controllers\\programasestaticocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\programasestaticos\\strategys\\carnebovinastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\programasestaticos\\strategys\\carnebovinastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\services\\programasestaticos\\strategys\\pipocastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\services\\programasestaticos\\strategys\\pipocastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\webmicroondas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\webmicroondas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|c:\\users\\vialact\\onedrive\\\u00E1rea de trabalho\\webmicroondas\\webmicroondas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5332A23-E9B5-4D0F-9592-9FF84091698A}|WebMicroondas\\WebMicroondas.csproj|solutionrelative:webmicroondas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250820024152_CriandoBancoDeDados.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Migrations\\20250820024152_CriandoBancoDeDados.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Migrations\\20250820024152_CriandoBancoDeDados.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Migrations\\20250820024152_CriandoBancoDeDados.cs",
+              "RelativeToolTip": "WebMicroondas\\Migrations\\20250820024152_CriandoBancoDeDados.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T02:41:53.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatusMicroondasEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Enuns\\StatusMicroondasEnum.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Enuns\\StatusMicroondasEnum.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Enuns\\StatusMicroondasEnum.cs",
+              "RelativeToolTip": "WebMicroondas\\Enuns\\StatusMicroondasEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:08:22.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AquecimentoResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\out\\AquecimentoResponseDto.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Dto\\out\\AquecimentoResponseDto.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\out\\AquecimentoResponseDto.cs",
+              "RelativeToolTip": "WebMicroondas\\Dto\\out\\AquecimentoResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:17:58.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeijaoStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\FeijaoStrategy.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\FeijaoStrategy.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\FeijaoStrategy.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\FeijaoStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:42:10.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProgramasDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\in\\CreateProgramasDto.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Dto\\in\\CreateProgramasDto.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\in\\CreateProgramasDto.cs",
+              "RelativeToolTip": "WebMicroondas\\Dto\\in\\CreateProgramasDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:31:32.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramasService.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\Programa\\ProgramasService.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\Programa\\ProgramasService.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\Programa\\ProgramasService.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\Programa\\ProgramasService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:56:26.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramasInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\Programa\\ProgramasInterface.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\Programa\\ProgramasInterface.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\Programa\\ProgramasInterface.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\Programa\\ProgramasInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:57:29.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeiteStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\LeiteStrategy.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\LeiteStrategy.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\LeiteStrategy.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\LeiteStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:32:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrangoStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\FrangoStrategy.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\FrangoStrategy.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\FrangoStrategy.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\FrangoStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:39:24.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAIVAAAAAAAAAAAUwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-20T02:24:22.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebMicroondas\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\appsettings.Development.json",
+              "RelativeToolTip": "WebMicroondas\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T23:07:01.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MicroondasService.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\Microondas\\MicroondasService.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\Microondas\\MicroondasService.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\Microondas\\MicroondasService.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\Microondas\\MicroondasService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:42:21.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Program.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Program.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Program.cs",
+              "RelativeToolTip": "WebMicroondas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:57:25.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProgramasModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Models\\ProgramasModel.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Models\\ProgramasModel.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Models\\ProgramasModel.cs",
+              "RelativeToolTip": "WebMicroondas\\Models\\ProgramasModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:49:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\data\\AppContext.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\data\\AppContext.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\data\\AppContext.cs",
+              "RelativeToolTip": "WebMicroondas\\data\\AppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:25:34.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProgramasRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasRegistry.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasRegistry.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasRegistry.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:54:30.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MicroondasInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\Microondas\\MicroondasInterface.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\Microondas\\MicroondasInterface.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\Microondas\\MicroondasInterface.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\Microondas\\MicroondasInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:43:36.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebMicroondas.csproj",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\WebMicroondas.csproj",
+              "RelativeDocumentMoniker": "WebMicroondas\\WebMicroondas.csproj",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\WebMicroondas.csproj",
+              "RelativeToolTip": "WebMicroondas\\WebMicroondas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T08:53:11.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "WebMicroondas\\Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:46:49.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProgramasEstaticosService.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasEstaticosService.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasEstaticosService.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasEstaticosService.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasEstaticosService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T23:01:27.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProgramasStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasStrategy.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasStrategy.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasStrategy.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\ProgramasEstaticos\\ProgramasStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:09:09.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateProgramasDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\in\\UpdateProgramasDto.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Dto\\in\\UpdateProgramasDto.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\in\\UpdateProgramasDto.cs",
+              "RelativeToolTip": "WebMicroondas\\Dto\\in\\UpdateProgramasDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:30:49.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProgramasEstasticosDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\out\\ProgramasEstasticosDto.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Dto\\out\\ProgramasEstasticosDto.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\out\\ProgramasEstasticosDto.cs",
+              "RelativeToolTip": "WebMicroondas\\Dto\\out\\ProgramasEstasticosDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T23:57:14.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AcrescentarTempoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\out\\AcrescentarTempoDto.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Dto\\out\\AcrescentarTempoDto.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\out\\AcrescentarTempoDto.cs",
+              "RelativeToolTip": "WebMicroondas\\Dto\\out\\AcrescentarTempoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T01:23:12.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AquecimentoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\in\\AquecimentoDto.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Dto\\in\\AquecimentoDto.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\in\\AquecimentoDto.cs",
+              "RelativeToolTip": "WebMicroondas\\Dto\\in\\AquecimentoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T18:07:35.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MicroondasController.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Controllers\\MicroondasController.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Controllers\\MicroondasController.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Controllers\\MicroondasController.cs",
+              "RelativeToolTip": "WebMicroondas\\Controllers\\MicroondasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T01:01:56.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AquecerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\in\\AquecerDto.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Dto\\in\\AquecerDto.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Dto\\in\\AquecerDto.cs",
+              "RelativeToolTip": "WebMicroondas\\Dto\\in\\AquecerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T01:45:31.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProgramasController.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Controllers\\ProgramasController.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Controllers\\ProgramasController.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Controllers\\ProgramasController.cs",
+              "RelativeToolTip": "WebMicroondas\\Controllers\\ProgramasController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:49:54.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProgramasEstaticoController.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Controllers\\ProgramasEstaticoController.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Controllers\\ProgramasEstaticoController.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Controllers\\ProgramasEstaticoController.cs",
+              "RelativeToolTip": "WebMicroondas\\Controllers\\ProgramasEstaticoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T23:03:40.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\appsettings.json",
+              "RelativeDocumentMoniker": "WebMicroondas\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\appsettings.json",
+              "RelativeToolTip": "WebMicroondas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T08:45:17.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CarneBovinaStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\CarneBovinaStrategy.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\CarneBovinaStrategy.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\CarneBovinaStrategy.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\CarneBovinaStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:37:18.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PipocaStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\PipocaStrategy.cs",
+              "RelativeDocumentMoniker": "WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\PipocaStrategy.cs",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\PipocaStrategy.cs",
+              "RelativeToolTip": "WebMicroondas\\Services\\ProgramasEstaticos\\strategys\\PipocaStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:28:33.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WebMicroondas.http",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\WebMicroondas.http",
+              "RelativeDocumentMoniker": "WebMicroondas\\WebMicroondas.http",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\WebMicroondas.http",
+              "RelativeToolTip": "WebMicroondas\\WebMicroondas.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-19T09:01:56.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebMicroondas\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Vialact\\OneDrive\\\u00C1rea de Trabalho\\WebMicroondas\\WebMicroondas\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebMicroondas\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T08:15:12.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

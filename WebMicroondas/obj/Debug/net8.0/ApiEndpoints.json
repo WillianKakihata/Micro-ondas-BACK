@@ -1,0 +1,231 @@
+[
+  {
+    "ContainingType": "WebMicroondas.Controllers.MicroondasController",
+    "Method": "acrescentar_tempo",
+    "RelativePath": "api/Microondas/acrescimoTempo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tempos",
+        "Type": "WebMicroondas.Dto.in.AquecerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.MicroondasController",
+    "Method": "aquecer",
+    "RelativePath": "api/Microondas/aquecimento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aquecer",
+        "Type": "WebMicroondas.Dto.in.AquecimentoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.MicroondasController",
+    "Method": "inicio_rapido",
+    "RelativePath": "api/Microondas/inicioRapido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.MicroondasController",
+    "Method": "pausar_desligar",
+    "RelativePath": "api/Microondas/pausar-desligar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pause",
+        "Type": "WebMicroondas.Dto.in.AquecimentoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.ProgramasController",
+    "Method": "create",
+    "RelativePath": "api/Programas/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "WebMicroondas.Dto.in.CreateProgramasDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebMicroondas.Models.ResponseModel\u00601[[WebMicroondas.Models.ProgramasModel, WebMicroondas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.ProgramasController",
+    "Method": "delete",
+    "RelativePath": "api/Programas/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebMicroondas.Models.ResponseModel\u00601[[WebMicroondas.Models.ProgramasModel, WebMicroondas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.ProgramasController",
+    "Method": "findAll",
+    "RelativePath": "api/Programas/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WebMicroondas.Models.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[WebMicroondas.Models.ProgramasModel, WebMicroondas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.ProgramasController",
+    "Method": "findById",
+    "RelativePath": "api/Programas/list/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebMicroondas.Models.ResponseModel\u00601[[WebMicroondas.Models.ProgramasModel, WebMicroondas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.ProgramasController",
+    "Method": "put",
+    "RelativePath": "api/Programas/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "WebMicroondas.Dto.in.UpdateProgramasDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebMicroondas.Models.ResponseModel\u00601[[WebMicroondas.Models.ProgramasModel, WebMicroondas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.ProgramasEstaticoController",
+    "Method": "IniciarPrograma",
+    "RelativePath": "api/ProgramasEstatico/{nome}/iniciar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.ProgramasEstaticoController",
+    "Method": "ListarProgramas",
+    "RelativePath": "api/ProgramasEstatico/listar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebMicroondas.Controllers.ProgramasEstaticoController",
+    "Method": "PausarPrograma",
+    "RelativePath": "api/ProgramasEstatico/pausar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "WebMicroondas.Dto.in.AquecimentoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
