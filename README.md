@@ -1,12 +1,10 @@
-## Documento Back-end - Projeot Microondas:  
+## Documento Back-end - Projeto Micro-ondas:  
 
 Este é o guia para iniciar o projeto back-end.  
 
 Pré-requisitos  
 
 .NET8 instalado na máquina.  
-
-Instalação  
 
 No terminal, dentro da pasta do projeto, execute:
 ```terminal
