@@ -5,6 +5,7 @@ Este é o guia para iniciar o projeto back-end.
 Pré-requisitos  
 
 .NET8 instalado na máquina.  
+POSTGRESQL instalado na máquina.  
 
 No terminal, dentro da pasta do projeto, execute:
 ```terminal
